@@ -1,8 +1,8 @@
-#project0 has 4 small projects in React
-1-Calculator
-2-Generateqoutes
-3-Quizapp
-4-Weather
+# project0 has 4 small projects in React
+## 1-Calculator
+## 2-Generateqoutes
+## 3-Quizapp
+## 4-Weather
 
 
 # React + Vite
